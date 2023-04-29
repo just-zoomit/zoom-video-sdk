@@ -1,0 +1,25 @@
+
+.room {
+    height: 60vh;
+    width: 80vw;
+    margin-top: 10%;
+    margin-left: 10%;
+    background: silver;
+  
+  }
+  
+  .selfView {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+    background: aqua;
+    padding: 2%;
+  }
+  
+  .participantC {
+    height: 100%;
+    width: 50%;
+    object-fit: cover;
+    background: goldenrod;
+    padding: 2%;
+  }
